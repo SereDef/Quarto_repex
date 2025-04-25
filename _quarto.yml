@@ -1,0 +1,27 @@
+project:
+  type: book
+
+book:
+  title: "Quarto_repex"
+  author: "Norah Jones"
+  date: "4/25/2025"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+filters:
+  - _extensions/link-handler.lua
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+    keep-tex: true
+
+
+

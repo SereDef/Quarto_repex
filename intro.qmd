@@ -1,0 +1,12 @@
+---
+url_variable: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+---
+
+# Introduction
+
+Check out [this link](__url_variable__)
+
+This is a book created from markdown and executable code.
+
+See @knuth84 for additional discussion of literate programming.
+
