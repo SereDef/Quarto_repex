@@ -6,7 +6,7 @@ another_url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 # Introduction
 
 Check out [this link](__url_variable__)
-Does the variable syntax [work]({{<meta another_url>}})?
+Does the variable syntax [work]({{< meta another_url >}})?
 
 
 This is a book created from markdown and executable code.
